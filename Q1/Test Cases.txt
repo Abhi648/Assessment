@@ -1,0 +1,9 @@
+Test Cases:
+
+1. Input an address with a correct PIN code and verify that the program returns True.
+2. Input an address with an incorrect PIN code and verify that the program returns False.
+3. Input an address with a valid format but not found in the API database and verify that the program returns False.
+4. Input an address with an invalid format and verify that the program handles it gracefully, possibly by returning False or raising an exception.
+5. Input an address with special characters and verify that the program correctly extracts and compares the PIN code.
+6. Input an address without a PIN code and verify that the program handles it gracefully, possibly by returning False or raising an exception
+
