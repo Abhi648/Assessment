@@ -1,0 +1,1 @@
+ JSON is a good choice when data needs to be widely accessible, structured, and easily parsed, while TSV may be preferred for its simplicity and ease of generation.
